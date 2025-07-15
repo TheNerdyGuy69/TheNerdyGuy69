@@ -24,6 +24,6 @@ Learning:     AI APIs · TypeScript · Docker · System Design
 📌 Projects
 🔹 Smart Task Tracker with AI Assistant – Automate tasks with natural language and AI reminders (Currently Working)
 
-🔹 Medicine Reminder App – Set alerts, manage inventory, and get notified (MVP done fruther improbments are work in progress)
+🔹 Medicine Reminder App – Set alerts, manage inventory, and get notified (MVP done fruther improvments are in progress)
 
 👀 Check out more in the pinned repositories below!
