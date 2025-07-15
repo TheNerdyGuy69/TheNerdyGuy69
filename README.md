@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @TheNerdyGuy69
-- 👀 I’m interested in Android and iOS developement
-- 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Straight MALE!!
-- ⚡ Fun fact: I just want to learn and earn money
+<h1 align="center">Hi 👋, I'm Sahil Gadakh</h1>
+<h3 align="center">A Full-Stack Developer | 3rd Year Computer Engineering Student | AI + Web Explorer</h3>
 
-<!---
-TheNerdyGuy69/TheNerdyGuy69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+- 🎓 I’m currently studying Computer Engineering at **MET Institute of Engineering (SPPU University)**  
+- 💻 I love building **real-world web apps** using the MERN stack (MongoDB, Express.js, React.js, Node.js)  
+- 🤖 Currently working on: **Smart Task Tracker with AI Assistant** (Next.js + OpenAI)  
+- 📈 Preparing for **GATE 2026** with a focus on core CS subjects  
+- 🌱 Learning **Data Structures & Algorithms (in Java)** and exploring **AI integration in web development**  
+- 👀 Always open to collaborations, internships, and meaningful tech conversations
+
+---
+
+### 🚀 Tech Stack
+
+```js
+Languages:    JavaScript · Java · HTML · CSS · Python  
+Frontend:     React.js · Tailwind CSS · Next.js (Learning)  
+Backend:      Node.js · Express.js · MongoDB  
+Tools:        Git · GitHub · VSCode · Postman  
+Learning:     AI APIs · TypeScript · Docker · System Design
+
+📌 Projects
+🔹 Smart Task Tracker with AI Assistant – Automate tasks with natural language and AI reminders (Currently Working)
+
+🔹 Medicine Reminder App – Set alerts, manage inventory, and get notified (MVP done fruther improbments are work in progress)
+
+👀 Check out more in the pinned repositories below!
